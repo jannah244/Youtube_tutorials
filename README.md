@@ -1,2 +1,2 @@
-# Youtube_tutorials
-Through a supervised project on bike sales,  I worked alongside the well-known YouTuber, @Alextheanalyst, to improve my skills in data analysis using MS Excel.
+# Excel_projects
+During a project where I had a supervisor guiding me in analyzing bike sales, I was fortunate to work alongside the well-known YouTuber, @Alextheanalyst. This experience helped me get better at using MS Excel for data analysis. I learned to use Excel's features like pivot tables, data visuals, and making interactive dashboards. By using these techniques to study bike sales data, I got better at finding important information in complex data.
